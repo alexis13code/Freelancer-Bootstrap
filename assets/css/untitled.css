@@ -1,0 +1,10 @@
+.h1 {
+  font-size: 3.5em !important;
+}
+
+.img-fluid{
+    border-radius: 50% !important;
+    border-color: black;
+    border-width: 3px;
+    border-style: solid;
+  }
